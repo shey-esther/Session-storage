@@ -1,0 +1,28 @@
+/*section .container{
+	background-color: #008B8B;
+	padding: 10%;
+}*/
+body{
+	background-image: url('../img/fruta.jpg');
+	background-position: center;
+	background-size: cover;
+}
+#formulario{
+	margin: 15%;
+	border-radius: 7px;	
+	padding: 5%;
+	background-color: rgba(0, 0, 255, .6);
+}
+.form-group label{
+	color: #FFFFFF;
+}
+
+#datos{
+	color: #FFFFFF;
+}
+#data{
+	color: #FFFFFF;
+}
+.btn-primary{
+	margin: 2%;
+}
